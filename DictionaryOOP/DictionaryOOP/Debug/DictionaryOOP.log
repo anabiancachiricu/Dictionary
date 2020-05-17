@@ -1,0 +1,14 @@
+﻿  DictionaryOOP.cpp
+  KeyComp.cpp
+C:\Users\marac\source\repos\DictionaryOOP\DictionaryOOP\KeyComp.h(26,1): error C3867: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::length': non-standard syntax; use '&' to create a pointer to member
+C:\Users\marac\source\repos\DictionaryOOP\DictionaryOOP\KeyComp.h(26,1): error C2296: '<': illegal, left operand has type 'unsigned int (__thiscall std::basic_string<char,std::char_traits<char>,std::allocator<char>>::* )(void) noexcept const'
+C:\Users\marac\source\repos\DictionaryOOP\DictionaryOOP\KeyComp.h(26,1): error C2297: '<': illegal, right operand has type 'unsigned int (__thiscall std::basic_string<char,std::char_traits<char>,std::allocator<char>>::* )(void) noexcept const'
+C:\Users\marac\source\repos\DictionaryOOP\DictionaryOOP\KeyComp.h(27,1): error C3867: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::length': non-standard syntax; use '&' to create a pointer to member
+C:\Users\marac\source\repos\DictionaryOOP\DictionaryOOP\KeyComp.h(27,1): error C2440: '=': cannot convert from 'unsigned int (__thiscall std::basic_string<char,std::char_traits<char>,std::allocator<char>>::* )(void) noexcept const' to 'int'
+C:\Users\marac\source\repos\DictionaryOOP\DictionaryOOP\KeyComp.h(27,14): message : There is no context in which this conversion is possible
+C:\Users\marac\source\repos\DictionaryOOP\DictionaryOOP\KeyComp.h(29,1): error C3867: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::length': non-standard syntax; use '&' to create a pointer to member
+C:\Users\marac\source\repos\DictionaryOOP\DictionaryOOP\KeyComp.h(29,1): error C2440: '=': cannot convert from 'unsigned int (__thiscall std::basic_string<char,std::char_traits<char>,std::allocator<char>>::* )(void) noexcept const' to 'int'
+C:\Users\marac\source\repos\DictionaryOOP\DictionaryOOP\KeyComp.h(29,14): message : There is no context in which this conversion is possible
+C:\Users\marac\source\repos\DictionaryOOP\DictionaryOOP\KeyComp.h(30,1): error C3867: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::copy': non-standard syntax; use '&' to create a pointer to member
+C:\Users\marac\source\repos\DictionaryOOP\DictionaryOOP\KeyComp.h(31,1): error C3867: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::copy': non-standard syntax; use '&' to create a pointer to member
+  Generating Code...
